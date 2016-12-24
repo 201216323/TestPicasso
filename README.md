@@ -485,7 +485,7 @@ switch (integer) {
 
 ![image](http://ww2.sinaimg.cn/mw690/b0d9a523jw1fb2asg0x6cg208v0h6qv7.gif)
 
-# 6：Glide总结
+# 6：Picass总结
 
 Picasso和Glide非常的相似，但Picasso这里有36种变换方式，这可以给图片处理带来丰富的效果，但在列表加载图片的时候，我发现图片会重复加载，这可能是我没有配置缓存的原因吧。
 
